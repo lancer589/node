@@ -20,8 +20,7 @@
 // USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-//存放Node核心模块的数组
-//如果自己要添加自定义的模块 可以在NODE_EXT_LIST_END前加入NODE_EXT_LIST_ITEM(node_xx)
+
 
 NODE_EXT_LIST_START
 NODE_EXT_LIST_ITEM(node_buffer)
